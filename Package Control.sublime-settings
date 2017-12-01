@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Autoprefixer",
+		"Clipboard Manager",
+		"Djaneiro",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"Emmet",
+		"GitGutter",
+		"HTML Snippets",
+		"HTML5",
+		"JavaScript Completions",
+		"JavaScript Console",
+		"Jinja2",
+		"JSHint",
+		"JSONLint",
+		"MagicPython",
+		"Markdown Preview",
+		"Package Control",
+		"Pretty JSON",
+		"Python 3",
+		"Python Debugger",
+		"requirementstxt",
+		"Ruby Completions",
+		"Ruby Debugger",
+		"Scala Snippets",
+		"Scala Syntax",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"TypeScript"
+	]
+}
